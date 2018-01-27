@@ -8,4 +8,10 @@ to run backend and frontend :-
 
 hit http://localhost:9081/
 
+To run execuatbel Jar 
+
+open cmd and go to Jar folder
+run java -jar EmiratesAirlinesTodoApp.jar
+hit http://localhost:9081/ to test application
+
 
