@@ -8,7 +8,6 @@ public class Validator {
 
 	/**
 	 * check if value is empty or null
-	 * check if value is empty or null
 	 * @param value
 	 * @return true if value is empty or null ,false otherwise
 	 */
